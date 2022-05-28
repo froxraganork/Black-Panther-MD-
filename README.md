@@ -1,8 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
-</p>
+<font face='Arial' Size='20' colour='red'>Black Panther MD</font>
+<p align="center">
+<img src="https://i.ibb.co/yQBM4yx/wp1869937.png" alt="google-font" border="0"></a>
+<div align="center">
 
-## Gojo-Satoru
+## Black Panther MD
 
 > <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
@@ -10,7 +12,6 @@
 
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/nexusNw/Gojo-Satoru/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
 
 </br>
@@ -74,8 +75,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["94741671668"]
+global.ownername = ["Black Panther MD"]
 ```
 </details>
 
@@ -124,7 +125,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/918129624000"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/94741671668"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
@@ -134,10 +135,15 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 </details><hr>
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
+* `@Dasun,@Dinuja,@Dilshan,@Anjana,@Srinath sir,@vimukthi...` 
 
 
 License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
+	
+	# Official Group
+
+- [Join Oficial Whatsapp Group](https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP)
+
+# Contact Me
+
+-[Whatsapp](https://wa.me/94741671668?text_Hi🤟)
